@@ -1,0 +1,11 @@
+{% extends "base.njk" %}
+
+{% block body %}
+    <header>
+        <h1 ><a class="backlink" href="/">amelie vogel <br> photography</a></h1>
+    </header>
+
+    {% for image in imageCacti %}
+        <img class="photos" src="images/cacti/{{image.src}}" alt="{{image.alt}}" title="{{image.title}}"> 
+    {% endfor %}
+{% endblock %}

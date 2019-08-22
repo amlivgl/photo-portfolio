@@ -1,0 +1,270 @@
+{
+    "imagePhotos": [{
+            "src": "photo1.jpg",
+            "alt": "concrete on stormy beach",
+            "title": "beachy"
+        },
+        {
+            "src": "photo2.jpg",
+            "alt": "strange puppet in amsterdam",
+            "title": "i am orange"
+        },
+
+        {
+            "src": "photo3.jpg",
+            "alt": "two geishas eating ramen",
+            "title": "ramenlove"
+        },
+
+        {
+            "src": "photo4.jpg",
+            "alt": "yellow and green tiles on the edge",
+            "title": "edgy"
+        },
+
+        {
+            "src": "photo5.jpg",
+            "alt": "cctv in the sky",
+            "title": "cctv"
+        },
+
+        {
+            "src": "photo6.jpg",
+            "alt": "rainy day on the beach",
+            "title": "drippin beach"
+        },
+
+        {
+            "src": "photo7.jpg",
+            "alt": "no ones in the mood for summer",
+            "title": "empty"
+        },
+
+        {
+            "src": "photo8.jpg",
+            "alt": "cctv on top of mirror",
+            "title": "cctv mirror"
+        },
+
+        {
+            "src": "photo9.jpg",
+            "alt": "library facade cologne",
+            "title": "bee facade"
+        },
+
+        {
+            "src": "photo10.jpg",
+            "alt": "cactus in blumeks showroom",
+            "title": "red cactus"
+        },
+
+        {
+            "src": "photo11.jpg",
+            "alt": "cactus shop in the dark",
+            "title": "cactus shop"
+        },
+
+        {
+            "src": "photo12.jpg",
+            "alt": "broken tiles in subway station",
+            "title": "subway station"
+        },
+
+        {
+            "src": "photo13.jpg",
+            "alt": "bench in the snow",
+            "title": "bench"
+        },
+
+        {
+            "src": "photo14.jpg",
+            "alt": "snow in a park",
+            "title": "snow park"
+        },
+
+        {
+            "src": "photo15.jpg",
+            "alt": "snow on a tree",
+            "title": "snow tree"
+        },
+
+        {
+            "src": "photo16.jpg",
+            "alt": "foggy skyscrapers in frankfurt",
+            "title": "skyscrapers"
+        },
+
+        {
+            "src": "photo17.jpg",
+            "alt": "foggy main skyline",
+            "title": "skyline"
+        },
+
+        {
+            "src": "photo18.jpg",
+            "alt": "unknown thingy in the dark",
+            "title": "dark thingy"
+        },
+
+        {
+            "src": "photo19.jpg",
+            "alt": "textures on a facde",
+            "title": "textured facade"
+        },
+
+        {
+            "src": "photo20.jpg",
+            "alt": "streetview with buildings",
+            "title": "streetview"
+        },
+
+        {
+            "src": "photo21.jpg",
+            "alt": "pink balkonies",
+            "title": "balkonies"
+        },
+
+        {
+            "src": "photo22.jpg",
+            "alt": "lost tv on balkony",
+            "title": "lost tv"
+        },
+
+        {
+            "src": "photo23.jpg",
+            "alt": "the snake in berlin",
+            "title": "snake"
+        },
+
+        {
+            "src": "photo24.jpg",
+            "alt": "facade of snake in berlin",
+            "title": "snake facade"
+        },
+
+        {
+            "src": "photo25.jpg",
+            "alt": "frozen waterfall",
+            "title": "waterfall"
+        },
+
+        {
+            "src": "photo26.jpg",
+            "alt": "pipes in lenas bathroom",
+            "title": "artsy pipes"
+        },
+
+        {
+            "src": "photo27.jpg",
+            "alt": "two windows showing berlin",
+            "title": "nice view"
+        },
+
+        {
+            "src": "photo28.jpg",
+            "alt": "facade of shopping mall",
+            "title": "mall"
+        }
+
+    ],
+
+    "imageCacti": [
+
+        {
+            "src": "cacti1.jpg",
+            "alt": "big orange blossom",
+            "title": "orange blossom"
+        },
+
+        {
+            "src": "cacti2.jpg",
+            "alt": "one red blossom",
+            "title": "red blossom"
+        },
+
+        {
+            "src": "cacti3.jpg",
+            "alt": "many orange blossoms in a circle",
+            "title": "orange circle blossom"
+        },
+
+        {
+            "src": "cacti4.jpg",
+            "alt": "big light pink blossom",
+            "title": "light pink blossom"
+        },
+
+        {
+            "src": "cacti5.jpg",
+            "alt": "big dark pink blossom",
+            "title": "dark pink blossom"
+        },
+
+        {
+            "src": "cacti6.jpg",
+            "alt": "no blossom, just genetelia",
+            "title": "no blossom"
+        },
+
+        {
+            "src": "cacti7.jpg",
+            "alt": "many red blossoms in a circle",
+            "title": "red circle blossom"
+        },
+
+        {
+            "src": "cacti8.jpg",
+            "alt": "three red blossoms",
+            "title": "three blossoms"
+        },
+
+        {
+            "src": "cacti9.jpg",
+            "alt": "two light pink blossoms",
+            "title": "two light pink blossoms"
+        },
+
+        {
+            "src": "cacti10.jpg",
+            "alt": "big white blossom",
+            "title": "white blossom"
+        },
+
+        {
+            "src": "cacti11.jpg",
+            "alt": "big yellow blossom",
+            "title": "yellow blossom"
+        },
+
+        {
+            "src": "cacti12.jpg",
+            "alt": "three light pink blossoms",
+            "title": "three light pink blossoms"
+        },
+
+        {
+            "src": "cacti13.jpg",
+            "alt": "many red blossoms",
+            "title": "many red blossoms"
+        },
+
+        {
+            "src": "cacti14.jpg",
+            "alt": "many light pink blossoms",
+            "title": "many blossoms on a branch"
+        },
+
+        {
+            "src": "cacti15.jpg",
+            "alt": "big round cactus",
+            "title": "red round blossomed cactus"
+        },
+
+        {
+            "src": "cacti16.jpg",
+            "alt": "huge pink blossom",
+            "title": "huge blossom"
+        }
+
+    ]
+}
