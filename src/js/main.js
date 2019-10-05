@@ -6,8 +6,11 @@ if (wrapper) {
     wrapper.addEventListener('click', function (e) {
 
         const imageclass = e.target.classList;
-        if (imageclass.contains('teaserimage')) {
-            e.target.parentElement.classList.add('teaser-showinfo');
+        const teaserParentClass = e.target.parentElement.classList;
+        if (imageclass.contains('teaserimage') && teaserParentClass.contains('teaser-showinfo')) {
+            teaserParentClass.remove('teaser-showinfo');
+        } else if (imageclass.contains('teaserimage')) {
+            teaserParentClass.add('teaser-showinfo');
         }
     })
 }

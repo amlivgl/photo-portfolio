@@ -19,6 +19,39 @@ html {
   }
 }
 
+.gif {
+  height: 250px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation-duration: 1s;
+  animation-name: gifblink;
+  animation-iteration-count: infinite;
+}
+
+.gif-text {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-size: 30px;
+  white-space: nowrap;
+}
+
+@keyframes gifblink {
+  0% {
+      background-color: #C400FF;
+  }
+
+  50% {
+      background-color: #FF00BC;
+  }
+
+  100% {
+      background-color: #22FF00;
+  }
+}
+
 .teaser {
   margin: 20px auto;
   max-width: 400px;
