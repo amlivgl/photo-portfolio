@@ -1,26 +1,30 @@
 html {
   background: white;
   font-family: 'Roboto', sans-serif;
+  margin: 0 auto;
+  max-width: 500px;
 }
 
 .headline {
-  animation: textChangeColor 7s linear infinite;
+  text-transform: uppercase;
+  font-weight: 600;
+  text-shadow: 2px -1px 0 #ff1493;
+  color: black;
+  text-align: center;
+  margin: 50px 0;
 }
 
-@keyframes textChangeColor {
-  0% {
-    color:#942E50;
-  }
-  50% {
-    color: #007691;
-  }
-  100% {
-    color: #942E69;
-  }
+.headline h1 {
+  margin: 0;
+  font-size: 60px;
+}
+
+.headline h2 {
+  margin: 0;
 }
 
 .gif {
-  height: 250px;
+  height: 270px;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -40,15 +44,15 @@ html {
 
 @keyframes gifblink {
   0% {
-      background-color: #C400FF;
+    background-color: #C400FF;
   }
 
   50% {
-      background-color: #FF00BC;
+    background-color: #ff00c3;
   }
 
   100% {
-      background-color: #22FF00;
+    background-color: #50f587;
   }
 }
 
@@ -58,7 +62,7 @@ html {
 }
 
 .teaser img {
-  max-width: 400px;
+  width: 100%;
   height: auto;
 }
 
@@ -66,14 +70,21 @@ html {
   cursor: pointer;
 }
 
+.teaserlink {
+  text-shadow: 2px -1px 0 #ff1493;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
 .photos {
   display: block;
   margin: auto;
   margin-top: 20px;
+  width: 100%;
+  max-width: 500px;
 }
 
 .caption {
-  text-align: center;
   display: block;
   margin: 20px 0 40px 0;
 }
@@ -107,13 +118,6 @@ a:hover {
   display: block;
 }
 
-@media (min-width: 40em) {
-  h1 {
-    margin: 80px 0 100px 0;
-    font-size: 60px;
-  }
-}
-
 .about {
   width: 400px;
   text-align: left;
@@ -122,3 +126,14 @@ a:hover {
   margin-bottom: 100px;
 }
 
+.wrapper {
+ margin-bottom: 100px;
+}
+
+@media (min-width: 40em) {
+  h1 {
+    margin: 80px 0 100px 0;
+    font-size: 60px;
+  }
+
+}

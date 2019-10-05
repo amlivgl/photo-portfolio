@@ -2,10 +2,14 @@
 
 {% block body %}
     <header>
-        <h1 ><a class="backlink" href="/">amelie vogel<br>photography</a></h1>
+       <div class="headline">
+            <h1>STRANGE PLANTS</h1>
+            <h2><a class="backlink" href="/">BACK TO EXHIBITIONS</a></h2>
+        </div>
     </header>
 
     {% for image in imageCacti %}
         <img class="photos" src="images/cacti/{{image.src}}" alt="{{image.alt}}" title="{{image.title}}"> 
+         <span class="caption">{{image.title}}</span>
     {% endfor %}
 {% endblock %}

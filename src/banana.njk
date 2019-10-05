@@ -1,0 +1,15 @@
+{% extends "base.njk" %}
+
+{% block body %}
+    <header>
+    <div class="headline">
+            <h1>ALTER EGO</h1>
+            <h2><a class="backlink" href="/">BACK TO EXHIBITIONS</a></h2>
+        </div>
+    </header>
+
+    {% for image in imageBanana %}
+        <img class="photos" src="images/banana/{{image.src}}" alt="{{image.alt}}" title="{{image.title}}"> 
+        <span class="caption">{{image.title}}</span>
+    {% endfor %}
+{% endblock %}

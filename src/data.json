@@ -4,11 +4,6 @@
             "alt": "concrete on stormy beach",
             "title": "beachy"
         },
-        {
-            "src": "photo2.jpg",
-            "alt": "strange puppet in amsterdam",
-            "title": "i am orange"
-        },
 
         {
             "src": "photo3.jpg",
@@ -171,100 +166,215 @@
     "imageCacti": [
 
         {
-            "src": "cacti1.jpg",
-            "alt": "big orange blossom",
-            "title": "orange blossom"
+            "src": "cacti (2).jpg",
+            "alt": "red blossom",
+            "title": "big red blossom"
         },
 
         {
-            "src": "cacti2.jpg",
-            "alt": "one red blossom",
-            "title": "red blossom"
-        },
-
-        {
-            "src": "cacti3.jpg",
+            "src": "cacti (3).jpg",
             "alt": "many orange blossoms in a circle",
             "title": "orange circle blossom"
         },
 
         {
-            "src": "cacti4.jpg",
+            "src": "cacti (4).jpg",
             "alt": "big light pink blossom",
             "title": "light pink blossom"
         },
 
         {
-            "src": "cacti5.jpg",
+            "src": "cacti (5).jpg",
             "alt": "big dark pink blossom",
             "title": "dark pink blossom"
         },
 
         {
-            "src": "cacti6.jpg",
+            "src": "cacti (6).jpg",
             "alt": "no blossom, just genetelia",
             "title": "no blossom"
         },
 
         {
-            "src": "cacti7.jpg",
+            "src": "cacti (7).jpg",
             "alt": "many red blossoms in a circle",
             "title": "red circle blossom"
         },
 
         {
-            "src": "cacti8.jpg",
+            "src": "cacti (8).jpg",
             "alt": "three red blossoms",
             "title": "three blossoms"
         },
 
         {
-            "src": "cacti9.jpg",
+            "src": "cacti (9).jpg",
             "alt": "two light pink blossoms",
             "title": "two light pink blossoms"
         },
 
         {
-            "src": "cacti10.jpg",
+            "src": "cacti (10).jpg",
             "alt": "big white blossom",
             "title": "white blossom"
         },
 
         {
-            "src": "cacti11.jpg",
+            "src": "cacti (11).jpg",
             "alt": "big yellow blossom",
             "title": "yellow blossom"
         },
 
         {
-            "src": "cacti12.jpg",
+            "src": "cacti (12).jpg",
             "alt": "three light pink blossoms",
             "title": "three light pink blossoms"
         },
 
         {
-            "src": "cacti13.jpg",
+            "src": "cacti (13).jpg",
             "alt": "many red blossoms",
             "title": "many red blossoms"
         },
 
         {
-            "src": "cacti14.jpg",
+            "src": "cacti (14).jpg",
             "alt": "many light pink blossoms",
             "title": "many blossoms on a branch"
         },
 
         {
-            "src": "cacti15.jpg",
+            "src": "cacti (15).jpg",
             "alt": "big round cactus",
             "title": "red round blossomed cactus"
         },
 
         {
-            "src": "cacti16.jpg",
+            "src": "cacti (16).jpg",
             "alt": "huge pink blossom",
             "title": "huge blossom"
         }
 
+    ],
+
+    "imageMarble": [
+
+        {
+            "src": "marblemaps (1).jpg",
+            "alt": "desert town1",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (2).jpg",
+            "alt": "desert town2",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (3).jpg",
+            "alt": "desert town3",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (4).jpg",
+            "alt": "desert town4",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (5).jpg",
+            "alt": "desert town5",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (6).jpg",
+            "alt": "desert town6",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (7).jpg",
+            "alt": "desert town7",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (8).jpg",
+            "alt": "desert town8",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (9).jpg",
+            "alt": "desert town9",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (10).jpg",
+            "alt": "desert town10",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (11).jpg",
+            "alt": "desert town11",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (12).jpg",
+            "alt": "desert town12",
+            "title": ""
+        },
+
+        {
+            "src": "marblemaps (13).jpg",
+            "alt": "desert town13",
+            "title": ""
+        }
+
+    ],
+
+    "imageBanana": [
+
+        {
+            "src": "banana (1).jpg",
+            "alt": "banana cool",
+            "title": "banana shows her cool oufit"
+        },
+
+        {
+            "src": "banana (2).jpg",
+            "alt": "banana dressed",
+            "title": "banana is all dressed up"
+        },
+
+        {
+            "src": "banana (3).jpg",
+            "alt": "banana breakfast",
+            "title": "banana is having breakfast on the balcony"
+        },
+
+        {
+            "src": "banana (4).jpg",
+            "alt": "banana tv",
+            "title": "banana is watching her favourite tv-show"
+        },
+
+        {
+            "src": "banana (5).jpg",
+            "alt": "banana sleep",
+            "title": "banana is sleeping"
+        },
+
+        {
+            "src": "banana (6).jpg",
+            "alt": "banana photobooth",
+            "title": "banana takes pictures in the photo booth"
+        }
     ]
 }

@@ -1,0 +1,15 @@
+{% extends "base.njk" %}
+
+{% block body %}
+    <header>
+       <div class="headline">
+            <h1>MARBLEMAPS</h1>
+            <h2><a class="backlink" href="/">BACK TO EXHIBITIONS</a></h2>
+        </div>
+    </header>
+
+    {% for image in imageMarble %}
+        <img class="photos" src="images/circlecrops/{{image.src}}" alt="{{image.alt}}" title="{{image.title}}">
+        <span class="caption">{{image.title}}</span>
+    {% endfor %}
+{% endblock %}
