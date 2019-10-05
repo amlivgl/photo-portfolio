@@ -3,11 +3,11 @@
 const wrapper = document.querySelector('.wrapper');
 
 if (wrapper) {
-    wrapper.addEventListener('click', function (event) {
+    wrapper.addEventListener('click', function (e) {
 
-        const imageclass = event.target.classList;
+        const imageclass = e.target.classList;
         if (imageclass.contains('teaserimage')) {
-            event.target.parentElement.classList.add('teaser-showinfo');
+            e.target.parentElement.classList.add('teaser-showinfo');
         }
     })
 }

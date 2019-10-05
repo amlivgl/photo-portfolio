@@ -3,6 +3,22 @@ html {
   font-family: 'Roboto', sans-serif;
 }
 
+.headline {
+  animation: textChangeColor 7s linear infinite;
+}
+
+@keyframes textChangeColor {
+  0% {
+    color:#942E50;
+  }
+  50% {
+    color: #007691;
+  }
+  100% {
+    color: #942E69;
+  }
+}
+
 .teaser {
   margin: 20px auto;
   max-width: 400px;
@@ -72,3 +88,4 @@ a:hover {
   margin-top: 100px;
   margin-bottom: 100px;
 }
+
