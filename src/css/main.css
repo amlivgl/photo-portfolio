@@ -24,7 +24,7 @@ html {
 }
 
 .gif {
-  height: 270px;
+  height: 260px;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -40,6 +40,7 @@ html {
   color: white;
   font-size: 30px;
   white-space: nowrap;
+  pointer-events: none;
 }
 
 @keyframes gifblink {
