@@ -1,5 +1,5 @@
-# This is my photography portfolio
+# This is my exhibiton
 Enjoy!
 
 ## Link
-<https://photo.amelie-vogel.com/>
+<https://exhibitions.amelie-vogel.com/>
